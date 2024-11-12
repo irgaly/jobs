@@ -74,7 +74,7 @@ Kotlin Multiplatform (KMP) が好きで、KMP による Android / iOS ロジッ�
 * ライブラリの不具合調査
     * ライブラリの内部実装の確認
     * Google IssueTracker や GitHub の監視
-    * Google IssueTracker や GitHub での Issue の報告
+    * Google IssueTracker や GitHub での Issue の報告、PR の提出
 * Kotlin Multiplatform (KMP)
     * Android / iOS アプリのビジネスロジック共通化
     * KMP の Xcode 連携
