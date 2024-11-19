@@ -53,6 +53,7 @@ Kotlin Multiplatform (KMP) が好きで、KMP による Android / iOS ロジッ�
 
 * 2020年〜 フリーランス
     * Android / iOS アプリ開発
+    * 業界: Fintech, 飲食予約アプリ, その他受託開発
 * 2019年〜2019年 スタートアップ企業所属
     * Android アプリの設計・開発
 * 2017年〜2018年 Web 系自社サービス企業所属
